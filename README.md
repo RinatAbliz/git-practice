@@ -1,5 +1,5 @@
 # git-practice
-hi Rinat
+hi Renati
 
 this is prictice for github
 
