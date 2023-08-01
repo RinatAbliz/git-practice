@@ -1,5 +1,5 @@
 # git-practice
-hi Renati
+alo adax
 
 this is prictice for github
 
